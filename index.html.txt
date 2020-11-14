@@ -10,6 +10,7 @@
 
 <<<<<<< HEAD
     <title>local baris</title>
+>>>>>>> 506323dfcfed494da6f7b427d8bb1c30e42221e6
 =======
     <title>Hello AI ERA!</title>
 >>>>>>> refs/remotes/origin/main
